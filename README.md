@@ -71,6 +71,7 @@ Yulia
 James
 Kerry
 Laura C
+Mags M (Yamahaclavinova1)
 Chloe
 Mairi B
 Justyna
