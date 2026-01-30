@@ -126,4 +126,12 @@ Ronnie
 Donna
 Simon
 Iryna
+Mykyta 
+John
+Leonid
+Hannah
+Ali
+Anna D
+Carmen L
+Carmen M
 Takaaki
