@@ -134,10 +134,10 @@ Ali
 Anna D
 Carmen L
 Carmen M
+Takaaki
+Louis
 Marcel
 Archie
 Dave M
-Takaaki
 Taylor
 Lewis
-Marcel
