@@ -134,5 +134,17 @@ Ali
 Anna D
 Carmen L
 Carmen M
-Marcel :)
+Takaaki
+Marcel
 Yulia
+Delan
+Marcel
+Dom
+Alex
+Louis
+Marcel
+Archie
+Dave M
+Taylor
+Lewis
+Michal M
