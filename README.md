@@ -134,6 +134,8 @@ Ali
 Anna D
 Carmen L
 Carmen M
+Marcel
+Dom
 Takaaki
 Alex
 Louis
