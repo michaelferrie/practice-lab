@@ -134,9 +134,10 @@ Ali
 Anna D
 Carmen L
 Carmen M
+Takaaki
+Delan
 Marcel
 Dom
-Takaaki
 Alex
 Louis
 Marcel
