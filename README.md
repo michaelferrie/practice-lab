@@ -134,16 +134,14 @@ Ali
 Anna D
 Carmen L
 Carmen M
-Marcel :D
-Takaaki
 Marcel
+Steven C
+Takaaki
 Yulia
 Delan
-Marcel
 Dom
 Alex
 Louis
-Marcel
 Archie
 Dave M
 Taylor
