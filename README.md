@@ -126,7 +126,7 @@ Ronnie
 Donna
 Simon
 Iryna
-Mykyta 
+Mykyta
 John
 Leonid
 Hannah
@@ -134,18 +134,20 @@ Ali
 Anna D
 Carmen L
 Carmen M
-Takaaki
 Marcel
+Steven C
+Takaaki
 Yulia
 Delan
-Marcel
 Dom
 Alex
 Louis
-Marcel
 Archie
 Dave M
 Taylor
 Lewis
 Michal M
 Ross H
+Jordan
+Paolo
+Stefano
