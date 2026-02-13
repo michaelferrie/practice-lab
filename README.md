@@ -126,7 +126,7 @@ Ronnie
 Donna
 Simon
 Iryna
-Mykyta 
+Mykyta
 John
 Leonid
 Hannah
@@ -151,3 +151,4 @@ Lewis
 Michal M
 Jordan
 Paolo
+Stefano
