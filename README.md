@@ -134,6 +134,7 @@ Ali
 Anna D
 Carmen L
 Carmen M
+Marcel :D
 Takaaki
 Marcel
 Yulia
@@ -148,4 +149,5 @@ Dave M
 Taylor
 Lewis
 Michal M
+Jordan
 Paolo
