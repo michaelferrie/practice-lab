@@ -154,3 +154,5 @@ Jordan
 Paolo
 Stefano
 Agata
+Clara
+Yasemin
